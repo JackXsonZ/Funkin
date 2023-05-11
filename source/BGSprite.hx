@@ -22,7 +22,7 @@ class BGSprite extends FlxSprite
 				animation.play(anims);
 
 				if (idleAnim == null)
-					idleAnim = anims;
+					idleAnim = anims;asdfadfasdf
 			}
 		}
 		else
